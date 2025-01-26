@@ -1,0 +1,8 @@
+[project]
+name = "hello_world_cpk"
+version = "0.1.0"
+repo = ""
+binary = "hello"
+build_step = ["make"]
+
+
